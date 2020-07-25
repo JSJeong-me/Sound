@@ -1,0 +1,16 @@
+﻿
+
+long-range dependencies are difﬁcult to model directly in the time domain
+
+they can be more tractably modelled in two-dimensional time-frequency representations such as spectrograms
+
+By leveraging this representational advantage, in conjunction with a highly expressive probabilistic model and a multiscale generation procedure,
+
+ we design a model capable of generating high-ﬁdelity audio samples which capture structure at timescales that time-domain models have yet to achieve
+
+by density estimates and human judgments
+
+ autoregressive models
+
+- advantages
+Combining these representational and modelling techniques yieldsahighlyexpressive,broadlyapplicable,andfullyendto-end generative model of audio. Our contributions are:
