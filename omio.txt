@@ -1,0 +1,15 @@
+﻿https://www.youtube.com/watch?v=uFLVKaFVGag Maria Callas O Mio Babbino Caro Giacomo Puccini
+
+https://www.youtube.com/watch?v=quycUbq5Uy4 jackie
+
+https://www.youtube.com/watch?v=s9PQ7qPkluM
+
+https://sjvasquez.github.io/blog/melnet/ (중요) fake voice
+
+http://www.practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/  (mel)
+
+44100 Hz sampling
+
+https://towardsdatascience.com/tonenet-a-musical-style-transfer-c0a18903c910  midifile
+
+
