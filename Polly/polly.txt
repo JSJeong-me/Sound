@@ -1,0 +1,10 @@
+고객 여러분, 우리열차는 잠시후 대전역에 도착하겠습니다. 두고 내리는 물건이 없는지 다시 한 번 확인해 주시기 바랍니다. 감사합니다.
+
+
+Dear customers, our train will arrive at Daejeon Station in a while. Please double check that there are no items left behind. thank you
+
+
+aws polly synthesize-speech --output-format mp3 --voice-id Matthew --text 'Dear customers, our train will arrive at Daejeon Station in a while. Please double check that there are no items left behind. thank you!' hello4.mp3
+
+
+aws polly synthesize-speech --output-format mp3 --voice-id Seoyeon --text  '우리열차는 잠시후 천안역에 도착하겠습니다. 두고 내리는 물건이 없는지 다시 한 번 확인해 주시기 바랍니다. 감사합니다.' hello3.mp3
