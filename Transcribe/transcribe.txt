@@ -1,0 +1,10 @@
+
+aws transcribe start-transcription-job \
+ --region ap-northeast-2 \
+ --transcription-job-name my-second-transcription-job \
+ --media MediaFileUri=s3://polly100/daejun.mp3 \
+ --language-code ko-KR
+
+
+
+s3://polly100/daejun-en.mp3
